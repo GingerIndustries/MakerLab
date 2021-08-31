@@ -1,0 +1,5 @@
+*.png
+editor/
+images/
+*.mb
+*.conf

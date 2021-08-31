@@ -1,0 +1,16 @@
+{
+	"header": {
+		"author": "Girl's World",
+		"name": "Girl's World"
+	},
+	"cooking": {
+		"name": "Cooking",
+		"pink-pop-tarts": {
+			"name": "Pink Pop Tarts!",
+			"difficulty": "Medium",
+			"instructions": "Ingredients: \n⚫️ 1 <i>(14-ounce box)</i> Pillsbury Pie Crusts\n⚫️ 1 cup raspberry or strawberry jam\n⚫️ 1 tablespoon cornstarch\n⚫️ 1 egg\n⚫️ 1 cup powdered sugar\n⚫️ 3 tablespoons heavy cream\n⚫️ rainbow sprinkles\n<img ./images/girlsworld/poptarts.png>\nStep 1: To start, preheat your oven to 400⚪️F. Roll out your pie crusts on a baking sheet, smoothing them out.\n\nStep 2: Cut big squares out of the dough pieces using a sharp knife. Cut those squares into 3 strips each.\n\nStep 3: Add the jam to a mixing bowl, then stir in the cornstarch.\n\nStep 4: Place a small spoonful of the jam mixture at the bottom half of each piece of dough.\n\nStep 5: Crack your egg in a bowl; whisk.\n\nStep 6: Brush the egg around each pastry's edges. Thsi is an egg wash and it'll act like a glue to hold the pop tart together.\n\nStep 7: Fold the top half of each pop tart over. Press the edges together firmly with a fork.\n\nStep 8: Bake them for 15 minutes, or until browned to your liking. After, let your treats cool.\n\nStep 9: Make your frosting by mixing the powdered sugar, a tablespoon of jam, and a table spoon of heavy cream.\n\nStep 10: Add the remaining heavy cream as you stir. This will give your frosting a thinner consistency.\n\nStep 11: Drizzle the frosting over your pop tarts, then add some sprinkles and you're done. Yum!",
+			"tags": [],
+			"footnote": ""
+		}
+	}
+}

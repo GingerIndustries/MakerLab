@@ -1,0 +1,14 @@
+{
+	"header": {
+		"author": "GingerIndustries",
+		"name": "HowTo"
+	},
+	"json": {
+		"name": "HowTo: Use JSON",
+		"what-is-json": {
+			"name": "1: What is JSON?",
+			"difficulty": "",
+			"instructions": "JSON (JavaScript Object Notation) is a pseudo-programming language readable by both machines and humans. It's commonly used as the basis for APIs, configuration files, and much more. JSON is also notable for being supported by most major programming languages."
+		}
+	}
+}
